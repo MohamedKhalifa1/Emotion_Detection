@@ -54,4 +54,3 @@ For any inquiries or feedback, feel free to reach out to [m.ashraf.20162002@gmai
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
->>>>>>> 0e726a29503a1e0c4434a8b10c301da8a3a4d2dc
